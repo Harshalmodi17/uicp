@@ -1,0 +1,566 @@
+.rectangle {
+  position: absolute;
+  top: 50px;
+  left: 0px;
+  background-color: var(--color-darkmagenta);
+  width: 1440px;
+  height: 3px;
+}
+.rectangle1 {
+  position: absolute;
+  top: 50px;
+  left: 0px;
+  background-color: var(--color-oldlace);
+  width: 1440px;
+  height: 1809px;
+}
+.rectangle2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-oldlace);
+  width: 1440px;
+  height: 214px;
+}
+.rectangle3 {
+  position: absolute;
+  top: 50px;
+  left: 230px;
+  background-color: var(--color-oldlace);
+  width: 980px;
+  height: 164px;
+}
+.rectangle4 {
+  position: absolute;
+  top: 91px;
+  left: 56px;
+  width: 890px;
+  height: 30px;
+}
+.rectangle5 {
+  position: absolute;
+  top: 139px;
+  left: 40px;
+  background-color: var(--color-gray-100);
+  width: 1360px;
+  height: 1px;
+}
+.rectangle6 {
+  position: absolute;
+  top: 140px;
+  left: 40px;
+  width: 1360px;
+  height: 7px;
+}
+.rectangle7 {
+  position: absolute;
+  top: 149px;
+  left: 445px;
+  width: 760px;
+  height: 30px;
+}
+.rectangle8 {
+  position: absolute;
+  top: 140px;
+  left: 1225px;
+  width: 175px;
+  height: 48px;
+}
+.rectangle9 {
+  position: absolute;
+  top: 140px;
+  left: 1225px;
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 175px;
+  height: 48px;
+}
+.rectangle10 {
+  position: absolute;
+  top: 214px;
+  left: 0px;
+  background-color: var(--color-oldlace);
+  width: 1440px;
+  height: 1251px;
+}
+.rectangle11 {
+  position: absolute;
+  top: 301px;
+  left: 250px;
+  width: 940px;
+  height: 96px;
+}
+.rectangle12 {
+  position: absolute;
+  top: 451px;
+  left: 40px;
+  background-color: var(--color-gray-100);
+  width: 1360px;
+  height: 1px;
+}
+.rectangle13 {
+  position: absolute;
+  top: 452px;
+  left: 40px;
+  width: 1360px;
+  height: 7px;
+}
+.rectangle14 {
+  position: absolute;
+  top: 453px;
+  left: 30px;
+  background-color: var(--color-gray-100);
+  width: 1380px;
+  height: 929px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 453px;
+  left: 30px;
+  width: 689px;
+  height: 929px;
+  object-fit: cover;
+}
+.rectangle15 {
+  position: absolute;
+  top: 505px;
+  left: 174px;
+  width: 400px;
+  height: 36px;
+}
+.rectangle16 {
+  position: absolute;
+  top: 581px;
+  left: 214px;
+  width: 320px;
+  height: 125px;
+}
+.rectangle17 {
+  position: absolute;
+  top: 723px;
+  left: 214px;
+  width: 320px;
+  height: 416px;
+}
+.image {
+  position: absolute;
+  top: 723px;
+  left: 214px;
+  filter: drop-shadow(0px 0px 0px #000);
+  width: 320px;
+  height: 416px;
+}
+.rectangle18 {
+  position: absolute;
+  top: 453px;
+  left: 720px;
+  background-color: var(--color-oldlace);
+  width: 690px;
+  height: 929px;
+}
+.rectangle19 {
+  position: absolute;
+  top: 499px;
+  left: 855px;
+  width: 420px;
+  height: 708px;
+}
+.rectangle20 {
+  position: absolute;
+  top: 573px;
+  left: 864.9px;
+  background-color: var(--color-gray-100);
+  width: 400px;
+  height: 1px;
+}
+.rectangle21 {
+  position: absolute;
+  top: 533px;
+  left: 865px;
+  width: 400px;
+  height: 40px;
+}
+.rectangle22 {
+  position: absolute;
+  top: 681px;
+  left: 864.9px;
+  background-color: var(--color-gray-100);
+  width: 400px;
+  height: 1px;
+}
+.rectangle23 {
+  position: absolute;
+  top: 641px;
+  left: 865px;
+  width: 400px;
+  height: 40px;
+}
+.rectangle24 {
+  position: absolute;
+  top: 789px;
+  left: 864.9px;
+  background-color: var(--color-gray-100);
+  width: 400px;
+  height: 1px;
+}
+.rectangle25 {
+  position: absolute;
+  top: 749px;
+  left: 865px;
+  width: 400px;
+  height: 40px;
+}
+.rectangle26 {
+  position: absolute;
+  top: 824px;
+  left: 865px;
+  width: 400px;
+  height: 72px;
+}
+.rectangle27 {
+  position: absolute;
+  top: 896px;
+  left: 864.9px;
+  background-color: var(--color-gray-100);
+  width: 400px;
+  height: 1px;
+}
+.rectangle28 {
+  position: absolute;
+  top: 856px;
+  left: 865px;
+  width: 400px;
+  height: 40px;
+}
+.rectangle29 {
+  position: absolute;
+  top: 933px;
+  left: 865px;
+  width: 400px;
+  height: 153px;
+}
+.rectangle30 {
+  position: absolute;
+  top: 1086px;
+  left: 864.9px;
+  background-color: var(--color-gray-100);
+  width: 400px;
+  height: 1px;
+}
+.rectangle31 {
+  position: absolute;
+  top: 965px;
+  left: 865px;
+  width: 400px;
+  height: 121px;
+}
+.rectangle32 {
+  position: absolute;
+  top: 1123px;
+  left: 865px;
+  width: 160px;
+  height: 48px;
+}
+.rectangle33 {
+  position: absolute;
+  top: 1123px;
+  left: 865px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-oldlace);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 160px;
+  height: 48px;
+}
+.rectangle34 {
+  position: absolute;
+  top: 1465px;
+  left: 0px;
+  background-color: var(--color-dimgray);
+  width: 1440px;
+  height: 394px;
+}
+.rectangle35 {
+  position: absolute;
+  top: 1465px;
+  left: 230px;
+  background-color: var(--color-dimgray);
+  width: 980px;
+  height: 394px;
+}
+.rectangle36 {
+  position: absolute;
+  top: 1548px;
+  left: 40px;
+  width: 560px;
+  height: 30px;
+}
+.rectangle37 {
+  position: absolute;
+  top: 1660px;
+  left: 40px;
+  background-color: var(--color-oldlace);
+  width: 1360px;
+  height: 1px;
+}
+.rectangle38 {
+  position: absolute;
+  top: 1661px;
+  left: 40px;
+  width: 1360px;
+  height: 7px;
+}
+.rectangle39 {
+  position: absolute;
+  top: 1662px;
+  left: 30px;
+  background-color: var(--color-oldlace);
+  width: 1380px;
+  height: 156px;
+}
+.rectangle40 {
+  position: absolute;
+  top: 1662px;
+  left: 30px;
+  background-color: var(--color-dimgray);
+  width: 459px;
+  height: 156px;
+}
+.rectangle41 {
+  position: absolute;
+  top: 1712px;
+  left: 40px;
+  width: 307px;
+  height: 23px;
+}
+.rectangle42 {
+  position: absolute;
+  top: 1733px;
+  left: 40px;
+  width: 307px;
+  height: 23px;
+}
+.rectangle43 {
+  position: absolute;
+  top: 1662px;
+  left: 490px;
+  background-color: var(--color-dimgray);
+  width: 459px;
+  height: 156px;
+}
+.rectangle44 {
+  position: absolute;
+  top: 1709px;
+  left: 530px;
+  width: 195px;
+  height: 62px;
+}
+.rectangle45 {
+  position: absolute;
+  top: 1662px;
+  left: 951px;
+  background-color: var(--color-dimgray);
+  width: 459px;
+  height: 156px;
+}
+.brauss {
+  position: absolute;
+  top: 87px;
+  left: 56px;
+  font-size: var(--font-size-10xl);
+  line-height: 30px;
+  font-family: var(--font-cormorant-garamond);
+  display: inline-block;
+  width: 107px;
+}
+.home {
+  position: absolute;
+  top: 149px;
+  left: 702px;
+  font-size: var(--font-size-base);
+  line-height: 30px;
+  color: var(--color-darkslategray);
+  text-align: center;
+  display: inline-block;
+  width: 49px;
+  cursor: pointer;
+}
+.about {
+  position: absolute;
+  top: 149px;
+  left: 781px;
+  line-height: 30px;
+  color: var(--color-darkslategray);
+  text-align: center;
+  display: inline-block;
+  width: 48px;
+  cursor: pointer;
+}
+.classes {
+  position: absolute;
+  top: 149px;
+  left: 859px;
+  line-height: 30px;
+  color: var(--color-darkslategray);
+  text-align: center;
+  display: inline-block;
+  width: 64px;
+  cursor: pointer;
+}
+.syllabus {
+  position: absolute;
+  top: 149px;
+  left: 953px;
+  line-height: 30px;
+  color: var(--color-darkslategray);
+  text-align: center;
+  display: inline-block;
+  width: 69px;
+}
+.news {
+  position: absolute;
+  top: 149px;
+  left: 1052px;
+  line-height: 30px;
+  color: var(--color-darkslategray);
+  text-align: center;
+  display: inline-block;
+  width: 44px;
+}
+.contactUs {
+  position: absolute;
+  top: 153px;
+  left: 1268px;
+  line-height: 20.8px;
+  display: inline-block;
+  width: 90px;
+}
+.getInTouch {
+  position: absolute;
+  top: 290px;
+  left: 387px;
+  font-size: var(--font-size-76xl);
+  line-height: 96px;
+  font-family: var(--font-cormorant-garamond);
+  text-align: center;
+  display: inline-block;
+  width: 666px;
+}
+.reachUsAnytime {
+  position: absolute;
+  top: 501px;
+  left: 243px;
+  font-size: var(--font-size-16xl);
+  line-height: 36px;
+  font-family: var(--font-cormorant-garamond);
+  text-align: center;
+  display: inline-block;
+  width: 262px;
+}
+.weAreAlways {
+  position: absolute;
+  top: 580px;
+  left: 215px;
+  font-size: var(--font-size-base);
+  line-height: 20.8px;
+  text-align: center;
+  display: inline-block;
+  width: 317px;
+}
+.firstName {
+  position: absolute;
+  top: 498px;
+  left: 865px;
+  line-height: 16px;
+  display: inline-block;
+  width: 85px;
+}
+.lastName {
+  position: absolute;
+  top: 606px;
+  left: 865px;
+  line-height: 16px;
+  display: inline-block;
+  width: 84px;
+}
+.email {
+  position: absolute;
+  top: 714px;
+  left: 865px;
+  line-height: 16px;
+  display: inline-block;
+  width: 44px;
+}
+.subject {
+  position: absolute;
+  top: 821px;
+  left: 865px;
+  line-height: 16px;
+  display: inline-block;
+  width: 62px;
+}
+.message {
+  position: absolute;
+  top: 930px;
+  left: 865px;
+  line-height: 16px;
+  display: inline-block;
+  width: 72px;
+}
+.send {
+  position: absolute;
+  top: 1136px;
+  left: 924px;
+  line-height: 20.8px;
+  display: inline-block;
+  width: 42px;
+}
+.brauss1 {
+  position: absolute;
+  top: 1544px;
+  left: 40px;
+  font-size: var(--font-size-10xl);
+  line-height: 30px;
+  font-family: var(--font-cormorant-garamond);
+  color: var(--color-oldlace);
+  display: inline-block;
+  width: 107px;
+}
+.div {
+  position: absolute;
+  top: 1711px;
+  left: 40px;
+  line-height: 20.8px;
+  color: var(--color-oldlace);
+  display: inline-block;
+  width: 126px;
+}
+.infomysitecom {
+  position: absolute;
+  top: 1732px;
+  left: 40px;
+  line-height: 20.8px;
+  color: var(--color-oldlace);
+  display: inline-block;
+  width: 134px;
+}
+.terryFrancineStreet {
+  position: absolute;
+  top: 1708px;
+  left: 530px;
+  line-height: 20.8px;
+  color: var(--color-oldlace);
+  display: inline-block;
+  width: 171px;
+}
+.contact {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1859px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-100);
+  font-family: var(--font-fahkwang);
+}

@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fahkwang:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-fahkwang: Fahkwang;
+  --font-cormorant-garamond: "Cormorant Garamond";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-10xl: 29px;
+  --font-size-base: 16px;
+  --font-size-16xl: 35px;
+  --font-size-76xl: 95px;
+  --font-size-17xl: 36px;
+  --font-size-45xl: 64px;
+  --font-size-44xl: 63px;
+  --font-size-77xl: 96px;
+  --font-size-base-4: 15.4px;
+  --font-size-mini-5: 14.5px;
+  --font-size-9xl: 28px;
+  --font-size-14xl-7: 33.7px;
+  --font-size-15xl-7: 34.7px;
+  --font-size-73xl-5: 92.5px;
+  --font-size-72xl-6: 91.6px;
+  --font-size-mini-9: 14.9px;
+  --font-size-mini-8: 14.8px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-oldlace: #fef8e5;
+  --color-gray-100: #121212;
+  --color-darkslategray: #3f424b;
+  --color-dimgray: #565b69;
+  --color-darkmagenta: #a0138e;
+  --color-lightslategray: #7c859e;
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-81xl: 100px;
+  --br-77xl-4: 96.4px;
+}

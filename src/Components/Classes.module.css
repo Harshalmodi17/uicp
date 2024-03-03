@@ -1,0 +1,546 @@
+.rectangle {
+  position: absolute;
+  top: 50px;
+  left: 0px;
+  background-color: var(--color-darkmagenta);
+  width: 1440px;
+  height: 3px;
+}
+.rectangle1 {
+  position: absolute;
+  top: 50px;
+  left: 0px;
+  background-color: var(--color-oldlace);
+  width: 1440px;
+  height: 2556px;
+}
+.rectangle2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-oldlace);
+  width: 1440px;
+  height: 214px;
+}
+.rectangle3 {
+  position: absolute;
+  top: 50px;
+  left: 230px;
+  background-color: var(--color-oldlace);
+  width: 980px;
+  height: 164px;
+}
+.rectangle4 {
+  position: absolute;
+  top: 139px;
+  left: 40px;
+  background-color: var(--color-gray-100);
+  width: 1360px;
+  height: 1px;
+}
+.rectangle5 {
+  position: absolute;
+  top: 140px;
+  left: 40px;
+  width: 1360px;
+  height: 7px;
+}
+.rectangle6 {
+  position: absolute;
+  top: 140px;
+  left: 1225px;
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 175px;
+  height: 48px;
+  cursor: pointer;
+}
+.rectangle7 {
+  position: absolute;
+  top: 214px;
+  left: 0px;
+  background-color: var(--color-oldlace);
+  width: 1440px;
+  height: 1998px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 810px;
+  left: 30px;
+  width: 1380px;
+  height: 449px;
+  object-fit: cover;
+}
+.image {
+  position: absolute;
+  top: 811px;
+  left: 30px;
+  width: 689px;
+  height: 449px;
+}
+.rectangle8 {
+  position: absolute;
+  top: 810px;
+  left: 720px;
+  background-color: var(--color-oldlace);
+  width: 690px;
+  height: 449px;
+}
+.rectangle9 {
+  position: absolute;
+  top: 844px;
+  left: 760px;
+  width: 400px;
+  height: 36px;
+}
+.rectangle10 {
+  position: absolute;
+  top: 910px;
+  left: 760px;
+  width: 400px;
+  height: 146px;
+}
+.rectangle11 {
+  position: absolute;
+  top: 1093px;
+  left: 760px;
+  width: 400px;
+  height: 104px;
+}
+.rectangleIcon1 {
+  position: absolute;
+  top: 1259px;
+  left: 30px;
+  width: 1380px;
+  height: 428px;
+  object-fit: cover;
+}
+.rectangle12 {
+  position: absolute;
+  top: 1259px;
+  left: 30px;
+  background-color: var(--color-oldlace);
+  width: 689px;
+  height: 428px;
+}
+.rectangle13 {
+  position: absolute;
+  top: 1294px;
+  left: 40px;
+  width: 400px;
+  height: 36px;
+}
+.rectangle14 {
+  position: absolute;
+  top: 1363px;
+  left: 40px;
+  width: 400px;
+  height: 125px;
+}
+.rectangle15 {
+  position: absolute;
+  top: 1525px;
+  left: 40px;
+  width: 400px;
+  height: 104px;
+}
+.image1 {
+  position: absolute;
+  top: 1260px;
+  left: 720px;
+  width: 690px;
+  height: 428px;
+}
+.rectangleIcon2 {
+  position: absolute;
+  top: 1686px;
+  left: 30px;
+  width: 1380px;
+  height: 428px;
+  object-fit: cover;
+}
+.rectangle16 {
+  position: absolute;
+  top: 1682px;
+  left: 21px;
+  width: 707px;
+  height: 440px;
+}
+.rectangle17 {
+  position: absolute;
+  top: 1686px;
+  left: 720px;
+  background-color: var(--color-oldlace);
+  width: 690px;
+  height: 428px;
+}
+.rectangle18 {
+  position: absolute;
+  top: 1725px;
+  left: 760px;
+  width: 400px;
+  height: 36px;
+}
+.rectangle19 {
+  position: absolute;
+  top: 1802px;
+  left: 760px;
+  width: 400px;
+  height: 125px;
+}
+.rectangle20 {
+  position: absolute;
+  top: 1962px;
+  left: 760px;
+  width: 400px;
+  height: 104px;
+}
+.rectangle21 {
+  position: absolute;
+  top: 2164px;
+  left: 30px;
+  width: 160px;
+  height: 48px;
+}
+.rectangle22 {
+  position: absolute;
+  top: 2164px;
+  left: 30px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-oldlace);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 160px;
+  height: 48px;
+}
+.rectangle23 {
+  position: absolute;
+  top: 2212px;
+  left: 0px;
+  background-color: var(--color-dimgray);
+  width: 1440px;
+  height: 394px;
+}
+.rectangle24 {
+  position: absolute;
+  top: 2212px;
+  left: 230px;
+  background-color: var(--color-dimgray);
+  width: 980px;
+  height: 394px;
+}
+.rectangle25 {
+  position: absolute;
+  top: 2295px;
+  left: 40px;
+  width: 560px;
+  height: 30px;
+}
+.rectangle26 {
+  position: absolute;
+  top: 2407.1px;
+  left: 40px;
+  background-color: var(--color-oldlace);
+  width: 1360px;
+  height: 1px;
+}
+.rectangle27 {
+  position: absolute;
+  top: 2408px;
+  left: 40px;
+  width: 1360px;
+  height: 7px;
+}
+.rectangle28 {
+  position: absolute;
+  top: 2409px;
+  left: 30px;
+  background-color: var(--color-oldlace);
+  width: 1380px;
+  height: 156px;
+}
+.rectangle29 {
+  position: absolute;
+  top: 2409px;
+  left: 30px;
+  background-color: var(--color-dimgray);
+  width: 459px;
+  height: 156px;
+}
+.rectangle30 {
+  position: absolute;
+  top: 2459px;
+  left: 40px;
+  width: 307px;
+  height: 23px;
+}
+.rectangle31 {
+  position: absolute;
+  top: 2480px;
+  left: 40px;
+  width: 307px;
+  height: 23px;
+}
+.rectangle32 {
+  position: absolute;
+  top: 2409px;
+  left: 490px;
+  background-color: var(--color-dimgray);
+  width: 459px;
+  height: 156px;
+}
+.rectangle33 {
+  position: absolute;
+  top: 2456px;
+  left: 530px;
+  width: 195px;
+  height: 62px;
+}
+.rectangle34 {
+  position: absolute;
+  top: 2409px;
+  left: 951px;
+  background-color: var(--color-dimgray);
+  width: 459px;
+  height: 156px;
+}
+.brauss {
+  position: absolute;
+  top: 87px;
+  left: 56px;
+  font-size: var(--font-size-10xl);
+  line-height: 30px;
+  font-family: var(--font-cormorant-garamond);
+  display: inline-block;
+  width: 107px;
+}
+.home {
+  position: absolute;
+  top: 149px;
+  left: 702px;
+  font-size: var(--font-size-base);
+  line-height: 30px;
+  color: var(--color-darkslategray);
+  text-align: center;
+  display: inline-block;
+  width: 49px;
+  cursor: pointer;
+}
+.about {
+  position: absolute;
+  top: 149px;
+  left: 781px;
+  line-height: 30px;
+  color: var(--color-darkslategray);
+  text-align: center;
+  display: inline-block;
+  width: 48px;
+  cursor: pointer;
+}
+.classes1 {
+  position: absolute;
+  top: 149px;
+  left: 859px;
+  line-height: 30px;
+  color: var(--color-dimgray);
+  text-align: center;
+  display: inline-block;
+  width: 64px;
+}
+.syllabus {
+  position: absolute;
+  top: 149px;
+  left: 953px;
+  line-height: 30px;
+  color: var(--color-darkslategray);
+  text-align: center;
+  display: inline-block;
+  width: 69px;
+}
+.news {
+  position: absolute;
+  top: 149px;
+  left: 1052px;
+  line-height: 30px;
+  color: var(--color-darkslategray);
+  text-align: center;
+  display: inline-block;
+  width: 44px;
+}
+.contactUs {
+  position: absolute;
+  top: 153px;
+  left: 1268px;
+  line-height: 20.8px;
+  display: inline-block;
+  width: 90px;
+  cursor: pointer;
+}
+.ourServices {
+  position: absolute;
+  top: 279px;
+  left: 40px;
+  font-size: var(--font-size-76xl);
+  line-height: 96px;
+  font-family: var(--font-cormorant-garamond);
+  display: inline-block;
+  width: 642px;
+}
+.whatYouNeed {
+  position: absolute;
+  top: 473px;
+  left: 40px;
+  line-height: 20.8px;
+  display: inline-block;
+  width: 120px;
+}
+.atBraussWe {
+  position: absolute;
+  top: 522px;
+  left: 40px;
+  font-size: var(--font-size-17xl);
+  line-height: 36px;
+  font-family: var(--font-cormorant-garamond);
+  display: inline-block;
+  width: 940px;
+}
+.academicTutoring {
+  position: absolute;
+  top: 840px;
+  left: 760px;
+  font-size: var(--font-size-16xl);
+  line-height: 36px;
+  font-family: var(--font-cormorant-garamond);
+  display: inline-block;
+  width: 273px;
+}
+.ourAcademicTutoring {
+  position: absolute;
+  top: 909px;
+  left: 760px;
+  font-size: var(--font-size-base);
+  line-height: 20.8px;
+  display: inline-block;
+  width: 388px;
+}
+.ourTestPrep {
+  position: absolute;
+  top: 1092px;
+  left: 760px;
+  font-size: var(--font-size-base);
+  line-height: 20.8px;
+  display: inline-block;
+  width: 392px;
+}
+.careerServices {
+  position: absolute;
+  top: 1290px;
+  left: 40px;
+  font-size: var(--font-size-17xl);
+  line-height: 36px;
+  font-family: var(--font-cormorant-garamond);
+  display: inline-block;
+  width: 217px;
+}
+.atBraussWe1 {
+  position: absolute;
+  top: 1362px;
+  left: 40px;
+  font-size: var(--font-size-base);
+  line-height: 20.8px;
+  display: inline-block;
+  width: 400px;
+}
+.ourStudyAbroad {
+  position: absolute;
+  top: 1524px;
+  left: 40px;
+  line-height: 20.8px;
+  display: inline-block;
+  width: 396px;
+}
+.researchSupport {
+  position: absolute;
+  top: 1721px;
+  left: 760px;
+  font-size: var(--font-size-16xl);
+  line-height: 36px;
+  font-family: var(--font-cormorant-garamond);
+  display: inline-block;
+  width: 247px;
+}
+.researchIsA {
+  position: absolute;
+  top: 1801px;
+  left: 760px;
+  font-size: var(--font-size-base);
+  line-height: 20.8px;
+  display: inline-block;
+  width: 394px;
+}
+.ourWritingCenter {
+  position: absolute;
+  top: 1961px;
+  left: 760px;
+  font-size: var(--font-size-base);
+  line-height: 20.8px;
+  display: inline-block;
+  width: 394px;
+}
+.learnMore {
+  position: absolute;
+  top: 2176px;
+  left: 66px;
+  line-height: 20.8px;
+  display: inline-block;
+  width: 88px;
+}
+.brauss1 {
+  position: absolute;
+  top: 2291px;
+  left: 40px;
+  font-size: var(--font-size-10xl);
+  line-height: 30px;
+  font-family: var(--font-cormorant-garamond);
+  color: var(--color-oldlace);
+  display: inline-block;
+  width: 107px;
+}
+.div {
+  position: absolute;
+  top: 2458px;
+  left: 40px;
+  line-height: 20.8px;
+  color: var(--color-oldlace);
+  display: inline-block;
+  width: 126px;
+}
+.infomysitecom {
+  position: absolute;
+  top: 2479px;
+  left: 40px;
+  line-height: 20.8px;
+  color: var(--color-oldlace);
+  display: inline-block;
+  width: 134px;
+}
+.terryFrancineStreet {
+  position: absolute;
+  top: 2455px;
+  left: 530px;
+  line-height: 20.8px;
+  color: var(--color-oldlace);
+  display: inline-block;
+  width: 171px;
+}
+.classes {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2606px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-100);
+  font-family: var(--font-fahkwang);
+}
